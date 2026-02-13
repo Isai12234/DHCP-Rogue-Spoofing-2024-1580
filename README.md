@@ -1,7 +1,7 @@
 # DHCP Rogue / Spoofing Attack - Scapy
 
 ## Autor
-Nombre: Isai Casado
+Nombre: Juan isai Casado De oleo
 Matrícula: 2024-1580
 
 ---
@@ -32,7 +32,9 @@ IP Ofrecida: 10.15.80.20
 ---
 
 ## Ejecución
+```bash
 sudo python3 dhcp_rogue.py
+```
 
 ---
 
