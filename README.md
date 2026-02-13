@@ -23,6 +23,13 @@ Desarrollar un script en Python utilizando Scapy para simular un servidor DHCP f
 - 1 Switch
 - 1 Host Atacante (Kali Linux)
 - 1 Host Víctima (Window 10)
+  
+---
+  
+### Diagrama de Topología
+![Diagrama de Topología](Topologia.png)
+
+---
 
 ### Direccionamiento IP
 Red: 10.15.80.0/24
