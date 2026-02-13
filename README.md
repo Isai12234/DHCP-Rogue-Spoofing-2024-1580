@@ -6,6 +6,13 @@ Matrícula: 2024-1580
 
 ---
 
+## Video demostrativo
+
+[Ver video demostrativo] (https://youtu.be/j-XN6hBOSqk?si=FO2LdQtP_8S63AQy)
+
+
+---
+
 ## Objetivo
 Desarrollar un script en Python utilizando Scapy para simular un servidor DHCP falso que responde a solicitudes DHCP Discover con una configuración maliciosa.
 
